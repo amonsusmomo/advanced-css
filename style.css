@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+PL:wght@100..400&display=swap');
+@font-face {
+    font-family:inter;
+    src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+    
+}
+nav{display: flex;
+justify-content: space-between;
+align-items: center;
+font-family: inter;}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    text-decoration:none;
+}
+a{text-decoration: none;}
+p{font-family: "Playwrite PL", cursive;;}
